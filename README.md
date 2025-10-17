@@ -188,10 +188,10 @@ Our r=0.33 is a reasonable degradation from thesis AUC=0.65 given quarterly aggr
 - Week 1-2: Data pipeline (Danish claims + SEAS5 forecasts)
 - Week 3-4: Multi-variate model (precipitation + wind + temperature)
 - Week 5-6: Dashboard prototype
-- Week 7-10: Testing & Tryg pilot preparation
+- Week 7-10: Testing & pilot preparation
 
 ### 📅 Phase 3: Commercial Pilot (Q1 2025)
-- Tryg pilot launch
+- Pilot launch
 - Quarterly forecast delivery
 - Model refinement
 
