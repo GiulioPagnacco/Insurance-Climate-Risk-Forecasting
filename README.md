@@ -236,8 +236,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - **Gorji & Rødal (2021)** - NHH thesis providing scientific foundation
 - **ECMWF** - Copernicus Climate Data Store (ERA5, SEAS5)
 - **Finance Norway (NASK)** - Public insurance claims database
-- **Etienne** - Advisor and insurance operations expertise
-- **Ashbin** - Academic methodology validation
 
 ---
 
